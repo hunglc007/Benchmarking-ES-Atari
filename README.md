@@ -1,5 +1,5 @@
 # Benchmarking-ES-Atari
-##Installation
+## Installation
 
 Cần cài đặt các thư viện sau 
 
@@ -7,7 +7,7 @@ pytorch
 
 gym
 
-##Training 
+## Training 
 
 Chạy file ```examples/space_invaders/train_image.py``` nếu sử dụng đầu vào là image, ```examples/space_invaders/train_ram.py``` nếu sử dụng đầu vào là ram
 
